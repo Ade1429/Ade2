@@ -261,7 +261,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8 text-center">
         <div class="container mx-auto px-4">
-            <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+            <p>&copy; 2025 Adeyinka Aderibigbe-Yusuf. All rights reserved.</p>
             <p class="text-sm mt-2">Built with <a href="https://tailwindcss.com/" target="_blank" class="text-indigo-400 hover:underline">Tailwind CSS</a></p>
         </div>
     </footer>
