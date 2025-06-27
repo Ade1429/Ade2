@@ -173,7 +173,7 @@
                 </div>
                 <!-- Project 2 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/ffe4e6/dc2626?text=Project+Image+2" alt="Project 2" class="w-full h-48 object-cover">
+                   
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Custom Object for Contract Management</h3>
                         <p class="text-gray-600 text-sm mb-4">Developed a custom object and related fields, page layouts, and reports for efficient tracking and management of customer contracts within Salesforce.</p>
@@ -182,7 +182,7 @@
                 </div>
                 <!-- Project 3 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/dbeafe/2563eb?text=Project+Image+3" alt="Project 3" class="w-full h-48 object-cover">
+                    
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Enhanced Sales Performance Dashboard</h3>
                         <p class="text-gray-600 text-sm mb-4">Created a comprehensive set of Salesforce reports and dashboards providing real-time insights into sales pipeline, forecasting, and team performance metrics.</p>
