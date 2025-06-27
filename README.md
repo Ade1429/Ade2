@@ -84,7 +84,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">About Me</h2>
             <div class="flex flex-col md:flex-row items-center md:space-x-8">
                 <div class="md:w-1/3 mb-8 md:mb-0">
-                    <img src="<img src="3dee843a.png.pdf" alt="updated_image (1).png"3dee843a.png.pdf">
+                    <img src="<img src="3dee843a.png.png" alt="updated_image (1).png"3dee843a.png.png">
                 </div>
                 <div class="md:w-2/3 text-lg leading-relaxed text-gray-700 text-center md:text-left">
                     <p class="mb-4">
