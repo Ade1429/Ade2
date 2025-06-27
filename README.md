@@ -251,7 +251,7 @@
                     <p>Or connect with me on:</p>
                     <div class="flex justify-center space-x-4 mt-2">
                         <a href="https://www.linkedin.com/in/adeyinka-a-yusuf/">LinkedIn</a>
-                        <a href="mailto:youremail@example.com" class="text-indigo-600 hover:text-indigo-800 transition-colors">Email</a>
+                        <a href="douze712@gmail.com" class="text-indigo-600 hover:text-indigo-800 transition-colors">Email</a>
                     </div>
                 </div>
             </div>
