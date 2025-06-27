@@ -39,7 +39,7 @@
     <header class="bg-white shadow-sm py-4 sticky top-0 z-50">
         <nav class="container mx-auto px-4 flex justify-between items-center">
             <a href="#" class="text-2xl font-bold text-indigo-700 rounded-lg p-2 hover:bg-indigo-50 transition-colors">
-                [Your Name]
+                Hey! I'm Adeyinka Aderibigbe-Yusuf
             </a>
             <div class="hidden md:flex space-x-6">
                 <a href="#about" class="text-gray-600 hover:text-indigo-700 font-medium transition-colors">About</a>
