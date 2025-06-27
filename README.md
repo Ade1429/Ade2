@@ -191,7 +191,7 @@
                 </div>
                 <!-- Project 4 (Placeholder) -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/e0e7ff/4338ca?text=Coming+Soon" alt="Project 4" class="w-full h-48 object-cover">
+                   
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Future Project Idea 1</h3>
                         <p class="text-gray-600 text-sm mb-4">Brief description of your next exciting Salesforce project. This could be anything from a new integration to a security hardening initiative.</p>
@@ -200,7 +200,7 @@
                 </div>
                 <!-- Project 5 (Placeholder) -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/ffe4e6/dc2626?text=Coming+Soon" alt="Project 5" class="w-full h-48 object-cover">
+                   
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Future Project Idea 2</h3>
                         <p class="text-gray-600 text-sm mb-4">Another idea for a project you plan to add, showcasing your diverse skills and future contributions.</p>
@@ -209,7 +209,7 @@
                 </div>
                 <!-- Project 6 (Placeholder) -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/dbeafe/2563eb?text=Coming+Soon" alt="Project 6" class="w-full h-48 object-cover">
+                   
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Future Project Idea 3</h3>
                         <p class="text-gray-600 text-sm mb-4">A third placeholder for an upcoming project, demonstrating your ongoing work and continuous improvement.</p>
