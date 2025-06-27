@@ -164,7 +164,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Project 1 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                  <img src="
+                  
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Automated Lead Routing System</h3>
                         <p class="text-gray-600 text-sm mb-4">Designed and implemented a complex Salesforce Flow to automatically assign leads to sales representatives based on specific criteria, reducing manual effort by 70%.</p>
