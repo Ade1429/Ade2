@@ -88,7 +88,7 @@
                 </div>
                 <div class="md:w-2/3 text-lg leading-relaxed text-gray-700 text-center md:text-left">
                     <p class="mb-4">
-                        Hello! I'm a dedicated and results-driven Senior Salesforce Administrator with extensive experience in optimizing business processes and maximizing the value of the Salesforce platform. My passion lies in transforming complex requirements into scalable and efficient solutions.
+                        Hello! I'm a dedicated and results-driven Salesforce Administrator with extensive experience in optimizing business processes and maximizing the value of the Salesforce platform. My passion lies in transforming complex requirements into scalable and efficient solutions.
                     </p>
                     <p>
                         I excel at leveraging Salesforce to enhance user productivity, maintain data integrity, ensure robust security, and deliver insightful analytics. I am committed to continuous learning and staying ahead of the curve with the latest Salesforce innovations to drive success for any organization.
