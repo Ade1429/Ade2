@@ -67,7 +67,7 @@
     <section id="hero" class="gradient-bg text-white py-20 md:py-32 text-center shadow-lg">
         <div class="container mx-auto px-4">
             <h1 class="text-4xl md:text-6xl font-extrabold mb-4 leading-tight">
-                Senior Salesforce Administrator
+                 Salesforce Administrator
             </h1>
             <p class="text-lg md:text-xl mb-8 max-w-2xl mx-auto opacity-90">
                 Driving efficiency and innovation through expert Salesforce platform management, automation, and data optimization.
